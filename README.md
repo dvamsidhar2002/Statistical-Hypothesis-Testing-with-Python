@@ -1,6 +1,6 @@
 # Statistical-Hypothesis-Testing-with-Python
 ### Quick-reference guide to the 17 statistical hypothesis tests that you need in applied machine learning, with sample code in Python.
-
+<br>
 There are 100s of hypothesis testing types existing in field of statistics but we will need the 17 statistical hypothesis testing that we would use in applied machine learning and the machine learning projects.
 
 ```mermaid
@@ -16,6 +16,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
 ## Details about the above named test and their sub branches
 
 <ol>
+<br>
   <li>NORMALITY TESTS
     
   ```mermaid
@@ -24,7 +25,8 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[NORMALITY TESTS] --> C(D'Agostino's K^2 Test)
   A[NORMALITY TESTS] --> D(Anderson-Darling Test)
   ```
-    
+ 
+ <br>
   <li>CORRELATION TESTS
   
   ```mermaid 
@@ -34,7 +36,8 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[CORRELATION TESTS] --> D(Kendall's Rank Correlation)
   A[CORRELATION TESTS] --> E(Chi-Squared Test)
   ```
-  
+
+<br>
   <li>STATIONARY TESTS
   
   ```mermaid
@@ -43,6 +46,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[STATIONARY TESTS] --> C(Kwiatkouski-Phillips-Sehmidt-Shin)
   ```
   
+<br>
   <li>PARAMETRIC STATISTICAL HYPOTHESIS TESTS
   
   ```mermaid
@@ -53,6 +57,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> E(Repeated Measures ANOVA test)
   ```
   
+<br>
   <li>NON-PARAMETRIC STATISTICAL HYPOTHESIS TESTS
     
   ```mermaid
