@@ -5,5 +5,6 @@ There are 100s types of hypothesis testing existing in field of statistics but w
 
 ```mermaid
 flowchart TD
-A[STATISTICAL HYPOTHESIS] --> B[NORMALITY TESTS];d
+A[STATISTICAL HYPOTHESIS] --> B[NORMALITY TESTS];
+A[STATISTICAL HYPOTHESIS] --> C[CORRELATION TESTS];
 ```
