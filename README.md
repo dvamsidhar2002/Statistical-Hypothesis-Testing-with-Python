@@ -1,7 +1,7 @@
 # Statistical-Hypothesis-Testing-with-Python
 ### Quick-reference guide to the 17 statistical hypothesis tests that you need in applied machine learning, with sample code in Python.
 
-There are 100s types of hypothesis testing existing in field of statistics but we will need the 17 statistical hypothesis testing that we would use in applied machine learning and the machine learning projects.
+There are 100s of hypothesis testing types existing in field of statistics but we will need the 17 statistical hypothesis testing that we would use in applied machine learning and the machine learning projects.
 
 ```mermaid
 flowchart TD
@@ -26,6 +26,15 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   ```
     
   <li>CORRELATION TESTS
+  
+  ```mermaid 
+  flowchart TD
+  A[CORRELATION TESTS] --> B(Pearson's Correlation Coefficient)
+  A[CORRELATION TESTS] --> C(Spearman's Rank Correlation)
+  A[CORRELATION TESTS] --> D(Kendall's Rank Correlation)
+  A[CORRELATION TESTS] --> E(Chi-Squared Test)
+  ```
+  
   <li>STATIONARY TESTS
   <li>PARAMETRIC STATISTICAL HYPOTHESIS TESTS
   <li>NON-PARAMETRIC STATISTICAL HYPOTHESIS TESTS
