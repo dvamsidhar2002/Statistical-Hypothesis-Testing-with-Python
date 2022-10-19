@@ -16,7 +16,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
 ## Details about the above named test and their sub branches
 
 <ol>
-<br>
+<p>
   <li>NORMALITY TESTS
     
   ```mermaid
@@ -26,7 +26,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[NORMALITY TESTS] --> D(Anderson-Darling Test)
   ```
  
- <br>
+ <p>
   <li>CORRELATION TESTS
   
   ```mermaid 
@@ -37,7 +37,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[CORRELATION TESTS] --> E(Chi-Squared Test)
   ```
 
-<br>
+<p>
   <li>STATIONARY TESTS
   
   ```mermaid
@@ -46,7 +46,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[STATIONARY TESTS] --> C(Kwiatkouski-Phillips-Sehmidt-Shin)
   ```
   
-<br>
+<p>
   <li>PARAMETRIC STATISTICAL HYPOTHESIS TESTS
   
   ```mermaid
@@ -57,7 +57,7 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> E(Repeated Measures ANOVA test)
   ```
   
-<br>
+<p>
   <li>NON-PARAMETRIC STATISTICAL HYPOTHESIS TESTS
     
   ```mermaid
