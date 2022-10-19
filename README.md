@@ -36,6 +36,22 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   ```
   
   <li>STATIONARY TESTS
+  
+  ```mermaid
+  flowchart TD
+  A[STATIONARY TESTS] --> B(Augmented Dickey-Fuller)
+  A[STATIONARY TESTS] --> C(Kwiatkouski-Phillips-Sehmidt-Shin)
+  ```
+  
   <li>PARAMETRIC STATISTICAL HYPOTHESIS TESTS
+  
+  ```mermaid
+  flowchart TD
+  A[PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> B(Student's t-test)
+  A[PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> C(Paired Student's t-test)
+  A[PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> D(Analysis of Variance test/ANOVA)
+  A[PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> E(Repeated Measures ANOVA test)
+  ```
+  
   <li>NON-PARAMETRIC STATISTICAL HYPOTHESIS TESTS
 </ol>
