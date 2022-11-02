@@ -68,14 +68,4 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A[NON-PARAMETRIC STATISTICAL HYPOTHESIS TESTS] --> E(Friedman Test)
   ```
   
-  ```mermaid
-  flowchart TD
-  A-->B
-  B-->C
-  C-->D
-  D-->E
-  E-->F
-  F-->A
-  ```
-  
 </ol>
