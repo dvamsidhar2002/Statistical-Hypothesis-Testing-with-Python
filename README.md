@@ -73,7 +73,9 @@ A[STATISTICAL HYPOTHESIS] --> F(NON-PARAMETRIC STATISTICAL TESTS);
   A-->B
   B-->C
   C-->D
-  D-->A
+  D-->E
+  E-->F
+  F-->A
   ```
   
 </ol>
